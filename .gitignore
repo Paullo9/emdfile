@@ -11,3 +11,5 @@ test/unit_test_data/
 # Files $
 *.swp
 
+.*
+!/.gitignore
